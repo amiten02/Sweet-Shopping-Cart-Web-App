@@ -1,1 +1,2 @@
-# Sweet-Shopping-Cart-Web-App
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
